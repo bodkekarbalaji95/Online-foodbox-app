@@ -1,0 +1,10 @@
+insert into Product values(124633,150,"yes","Veg","Its hot spicy samosa chat its made with mida and vegetable curry",0,"./assets/images/Samosa-Chaat..jpg","Samosa Chaat",150);
+insert into Product values(124621,250,"yes","Veg","Cheese Poppers with extra Cheese loaded",20,"./assets/images/Cheese Poppers.jfif","Cheese Poppers",200);
+insert into Product values(124622,350,"yes","Veg","Full veg and Fresh panner with masala",0,"./assets/images/panner Tikki.jfif","Paneer Tikki",350);
+insert into Product values(124623,100,"yes","Veg","Fresh Curd missed with vada",10,"./assets/images/Dahi vada.jfif","Dahi Vada",90);
+insert into Product values(124624,155,"yes","Veg","This Veg Khabab is resturant special",0,"./assets/images/Veg Khabab.jfif","Veg Kebab",155);
+insert into Product values(124625,200,"yes","NonVeg","Chicken Manchurian with Thick wet gravy",25,"./assets/images/Chicken manchurian.jfif","Chicken Manchurian",150);
+insert into Product values(124627,450,"yes","NonVeg","One of the famous mutton Recipie",0,"./assets/images/Mutton Kebab.jfif","Mutton Kebab",450);
+insert into Product values(124629,300,"yes","NonVeg","Its dry mutton with extra black pepper",0,"./assets/images/Mutton Pepper fry.jfif","Mutton Pepper Fry",300);
+insert into Product values(124628,200,"yes","NonVeg","Fresh Chicken popcorn",0,"./assets/images/Chicken popcorn.jpg","Chicken Popcorn",200);
+insert into Product values(124626,250,"yes","NonVeg","You will get 6 spicy rolls",0,"./assets/images/Chicken spring Rolls.jpg","Chicken Spring Rolls",250);

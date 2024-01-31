@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FoodboxSpringApplication<foodbox>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.foodbox.FoodboxSpringApplication",
+            "projectName": "foodbox",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

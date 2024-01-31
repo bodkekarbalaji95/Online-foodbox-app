@@ -1,0 +1,26 @@
+//MAIN COURSE
+
+insert into Product values(134561,150,"yes","Veg","A perfectly savory, tangy, spiced mixture made of onions and scrambled paneer",0,"./assets/images/Paneer-Bhurji.jpg","Paneer Bhurji",150);
+insert into Product values(134562,50,"yes","Veg","It is made of soya flour and other healthy ingredients that are rich in vitamins, minerals.",0,"./assets/images/Roti.jpg","Roti",50);
+insert into Product values(134563,35,"yes","Veg","Crispy & roasted style",0,"./assets/images/Dosa.jpg","Dosa",35);
+insert into Product values(134564,180,"yes","Veg","It is made with soft tofu in a rich and spicy of sauce in vegetarian version.",5,"./assets/images/Kung Pao Tofu.jpg","Kung Pao Tofu",175);
+insert into Product values(134565,220,"yes","NonVeg","A perfectly cooked boneless chicken with savory, tangy and spicy.",10,"./assets/images/Chicken Dum Biriyani.jpg","Chicken Dum Biriyani",210);
+insert into Product values(134566,125,"yes","NonVeg","Flavour of Shawrma kabab|Yogurt sauce|Cocktail sauce.",4,"./assets/images/chicken shawarma.jpg","chicken shawarma",121);
+insert into Product values(134567,185,"yes","NonVeg","Butter chicken curry with spicy flavour.",0,"./assets/images/Butter-chicken.jpg","Butter-chicken",185);
+insert into Product values(134568,200,"yes","NonVeg","mutton masala gravy.",0,"./assets/images/mutton masala gravy.webp","mutton masala gravy",200);
+insert into Product values(134569,265,"yes","NonVeg","It consists of pieces of mutton braised with a gravy flavoured with garlic, ginger and aromatic spices.",5,"./assets/images/mutton Rogan Josh.jpg","mutton Rogan Josh",260);
+insert into Product values(134570,215,"yes","NonVeg","Subtly spiced and delicious Indian prawn curry cooked alongside aromatic spices and coconut milk.",3,"./assets/images/prawn masala curry.jpg","prawn masala curry",212);
+
+
+//Desserts
+
+insert into Product values(144626,250,"yes","Desset","Icecream with vanila flavour",10,"./assets/images/Classic chocolate mousse.jfif","Classic chocolate mousse",225);
+insert into Product values(144627,200,"yes","Desset","Choclate lava cake with added sugers",0,"./assets/images/Choco Lava Cake.jfif","Choco Lava Cake",200);
+insert into Product values(144628,150,"yes","Desset","Extra Chesse with place of 2 pieces",0,"./assets/images/Cheese Cake.jfif","Cheese Cake",150);
+insert into Product values(144629,150,"yes","Desset","Coffee Added italian dessert",0,"./assets/images/Tiramisu.jfif","Tiramisu",150);
+insert into Product values(144630,200,"yes","Desset","Various of flavours of smoothies available",20,"./assets/images/Smoothie.jfif","Smoothie",160);
+insert into Product values(144631,320,"yes","Desset","20 Pieces of sweet gulabjam with packed Box",0,"./assets/images/Gulab Jamun.jfif","Gulab Jamun",320);
+insert into Product values(144632,200,"yes","Desset","250 grms of halwa",10,"./assets/images/Gajar Ka Halwa.jfif","Gajar Ka Halwa",180);
+insert into Product values(144633,150,"yes","Desset","Hot and Cool both are avilable",10,"./assets/images/Payasam.jfif","Payasam",135);
+insert into Product values(144634,100,"yes","Desset","Its is a dessert made with Ghee anf Bread",0,"./assets/images/Shahi Tukda.jfif","Shahi Tukda",100);
+insert into Product values(144635,150,"yes","Desset","12 Pieces of packed Kaju ki Barfi",0,"./assets/images/Kaju ki Barfi.jfif","Kaju ki Barfi",150);

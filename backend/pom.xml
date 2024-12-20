@@ -63,6 +63,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>online_food_app</finalName>
 	</build>
 
 </project>
